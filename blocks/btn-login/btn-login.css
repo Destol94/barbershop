@@ -1,0 +1,12 @@
+.btn-login {
+    border: none;
+    padding: 0;
+    background-color: initial;
+    color: #fff;
+    display: flex;
+    gap: 15px;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-family: inherit;
+    align-items: center;
+}

@@ -1,0 +1,15 @@
+@import url(./fonts/ptsansnarrow.css);
+@import url(./blocks/page/page.css);
+@import url(./blocks/header/header.css);
+@import url(./blocks/__container/header__container.css);
+@import url(./blocks/nav/nav.css);
+@import url(./blocks/nav/__item/nav__item.css);
+@import url(./blocks/btn-login/btn-login.css);
+@import url(./blocks/main/main.css);
+@import url(./blocks/main-img/main-img.css);
+@import url(./blocks/advantage/advantage.css);
+@import url(./blocks/advantage/__item/advantage__item.css);
+@import url(/blocks/advantage/__title/advantage__title.css);
+@import url(./blocks/rhombus/rhombus.css);
+@import url(./blocks/advantage/__rhombus/advantage__rhombus.css);
+@import url(./blocks/advantage/__text/advantage__text.css);
