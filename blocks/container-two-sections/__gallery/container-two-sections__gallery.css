@@ -1,0 +1,7 @@
+.container-two-sections__gallery {
+  margin: 0 0 35px;
+  width: 300px;
+  height: 180px;
+  border: 7px #fff solid;
+  box-sizing: border-box;
+}

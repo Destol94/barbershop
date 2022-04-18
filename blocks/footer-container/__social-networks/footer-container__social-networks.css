@@ -1,0 +1,4 @@
+.footer-container__social-networks {
+  display: flex;
+  justify-content: space-between;
+}

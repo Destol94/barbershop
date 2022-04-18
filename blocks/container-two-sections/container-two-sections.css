@@ -1,0 +1,9 @@
+.container-two-sections {
+  background-image: url(../../image/Layer\ 10\ copy.png);
+  width: 960px;
+  padding: 55px 90px;
+  display: flex;
+  gap: 180px;
+  position: relative;
+  box-sizing: border-box;
+}

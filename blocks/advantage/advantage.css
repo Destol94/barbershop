@@ -1,4 +1,7 @@
 .advantage {
   color: #fff;
   display: flex;
+  width: 960px;
+  gap: 40px;
+  margin: 0 0 80px;
 }
